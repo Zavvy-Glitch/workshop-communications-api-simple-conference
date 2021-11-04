@@ -12,7 +12,7 @@ function updateNameValue(e) {
 }
 
 // URL to our Token Server
-const tokenServerURL = 'https://dolbycomm-tokenserver.netlify.app/';
+const tokenServerURL = 'https://dolbycomm-tokenserver.netlify.app/api/token-generator';
 
 
 
